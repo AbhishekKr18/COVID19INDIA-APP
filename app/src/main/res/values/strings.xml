@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">COVID19 INDIA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Recovered">Recovered</string>
+    <string name="Positive">Positive</string>
+    <string name="Deaths">Deaths</string>
+    <string name="Week">Week</string>
+    <string name="Month">Month</string>
+    <string name="Max">Max</string>
+    <string name="select">Select</string>
+    <string name="negative">Negative</string>
+    <string name="positive">Positive</string>
+    <string name="deaths">Deaths</string>
+    <string name="_1_week">1 Week</string>
+    <string name="_1_month">1 Month</string>
+    <string name="max">Max</string>
+    <string name="recovered">Recovered</string>
+    <string name="national_daily_cases">National Daily Cases</string>
+    <string name="state_cases">State Cases</string>
+    <string name="districts_cases">Districts Cases</string>
+    <string name="title_activity_states">StatesActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_districts">DistrictsActivity</string>
+    <string name="activecases">ActiveCases:-</string>
+</resources>
