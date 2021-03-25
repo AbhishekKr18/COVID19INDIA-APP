@@ -14,8 +14,8 @@ An API is called for all the data.
 The App uses Retrofit Library to get the JSON response from the API.
 We are also using Gson for working with JSON data.
 
-https://user-images.githubusercontent.com/72871335/112530196-2c3d6d00-8dcc-11eb-98a4-764869e3b56c.jpeg
+![app image1](https://user-images.githubusercontent.com/72871335/112530196-2c3d6d00-8dcc-11eb-98a4-764869e3b56c.jpeg)
 
-https://user-images.githubusercontent.com/72871335/112530592-a1a93d80-8dcc-11eb-8a9b-c6a5adf07620.jpeg
+![app image2](https://user-images.githubusercontent.com/72871335/112530592-a1a93d80-8dcc-11eb-8a9b-c6a5adf07620.jpeg)
 
-https://user-images.githubusercontent.com/72871335/112530654-b4bc0d80-8dcc-11eb-9770-a0c0f1902d65.jpeg
+![app image3](https://user-images.githubusercontent.com/72871335/112530654-b4bc0d80-8dcc-11eb-9770-a0c0f1902d65.jpeg)
